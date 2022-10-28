@@ -31,4 +31,4 @@ if ($connection->connect_error) {
 
 # 關閉 MySQL/MariaDB 連線
 // $connection->close();
-?>
+?> 
